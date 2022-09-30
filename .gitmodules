@@ -1,0 +1,6 @@
+[submodule "SparkFun-KiCad-Libraries"]
+	path = SparkFun-KiCad-Libraries
+	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries.git
+[submodule "keyswitch-kicad-library"]
+	path = keyswitch-kicad-library
+	url = https://github.com/perigoso/keyswitch-kicad-library.git
